@@ -1,7 +1,7 @@
 .timer{
     height: 100vh;
     border-radius: 0rem!important;
-    background-image: url(../timer-bg.jpg);
+    background-image: url(..timer-bg.jpg);
     background-size: 180%;
     background-position-y: 40%;
     margin-bottom: 0px!important;
