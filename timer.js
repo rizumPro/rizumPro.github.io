@@ -1,5 +1,5 @@
 // Set timer to:
-var day = 26
+var day = 25
 var month = 3
 
 // Get today's date and time
